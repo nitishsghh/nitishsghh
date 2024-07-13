@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nitish-kumar-85a860126/](https://www.linkedin.com/in/nitish-kumar-85a860126/)
 
-- 💬 Ask me about **Python, NumpY, Panda  **
+- 💬 Ask me about **Python, NumPy, Panda  **
 
 - 📫 How to reach me **itsnitishsingh.09@gmail.com**
 
