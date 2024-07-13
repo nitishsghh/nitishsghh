@@ -9,17 +9,15 @@
 
 - 🔭 I’m currently working on [Chatty](https://github.com/nitishsghh/Chatty)
 
-- 🌱 I’m currently learning **NextJs**
-
-- 👯 I’m looking to collaborate on [Google Clone](https://github.com/nitishsghh/google-clone)
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://nitishsghh.netlify.app/](https://nitishsghh.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nitish-kumar-85a860126/](https://www.linkedin.com/in/nitish-kumar-85a860126/)
 
-- 💬 Ask me about **JavaScript, ReactJs, ,Node ,NextJs & Java**
+- 💬 Ask me about **Python, NumpY, Panda  **
 
-- 📫 How to reach me **Singhnitish627@gmail.com**
+- 📫 How to reach me **itsnitishsingh.09@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny😊😍**
 
