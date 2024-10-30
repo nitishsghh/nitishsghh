@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishsghh" alt="nitishsghh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/nitishsghh" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nitishsghh?logo=twitter&style=for-the-badge" alt="https://twitter.com/nitishsghh" /></a> </p>
 
 - 🔭 I’m currently working on [Chatty](https://github.com/nitishsghh/Chatty)
 
@@ -15,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nitish-kumar-85a860126/](https://www.linkedin.com/in/nitish-kumar-85a860126/)
 
-- 💬 Ask me about **Python, NumPy, Panda  **
+- 💬 Ask me about **Python, Javascript, Typescript, Node  **
 
 - 📫 How to reach me **itsnitishsingh.09@gmail.com**
 
