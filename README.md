@@ -5,7 +5,7 @@ My name is Nitish Singh and I’m a web developer And Python. On this page you w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishsghh&label=Profile%20views&color=0e75b6&style=flat" alt="nitishsghh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=nitishsghh" alt="nitishsghh)" /></a> </p>
 
 
 - 🔭 I’m currently working on [Python Project](https://github.com/nitishsghh/Chatty)
