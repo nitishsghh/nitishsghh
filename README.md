@@ -12,11 +12,13 @@ My name is Nitish Singh and I’m a web developer And Python. On this page you w
 
 - 🌱 I’m currently enhance my  **Skills**
 
+- 🌱 I’m currently learning: Ai
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nitish-kumar-85a860126/](https://www.linkedin.com/in/nitish-kumar-85a860126/)
 
 - 💬 Ask me about **Python, Javascript, Typescript, Node  **
 
-- 📫 How to reach me **itsnitishsingh.09@gmail.com**
+- 👯 I’m looking to collaborate on: Fullstack projects
 
 - ⚡ Fun fact **I Think I'm Funny😊😍**
 
